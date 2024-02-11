@@ -3,6 +3,9 @@
 - I have knowledge of Python, JAVA, C++, C programming and Arduino.
 - **Linkedin Profile:**
 https://www.linkedin.com/in/shrinath-asati-083524222/
+- **LeetCode Profile:**
+https://leetcode.com/shrinathasati111/
+
 
 <!---
 shrinathasati/shrinathasati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
